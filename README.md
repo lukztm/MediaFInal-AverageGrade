@@ -38,7 +38,6 @@ Recebe duas notas, mostra a media final do aluno e diz se ele foi reprovado, se 
 			}
 		}
 	}
-}
 
 !!!ENGLISH!!!
 Gets two grades and shows the average grade.
@@ -80,4 +79,3 @@ Gets two grades and shows the average grade.
 			}
 		}
 	}
-}
