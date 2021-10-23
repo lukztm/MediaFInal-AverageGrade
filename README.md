@@ -1,5 +1,9 @@
-# MediaFinal-AverageGrade
+# MediaFinal
 Recebe duas notas, mostra a media final do aluno e diz se ele foi reprovado, se está de recuperação ou se foi reprovado. 
+
+	import javax.swing.JOptionPane;
+
+	public class Exercicio3MediaFinal {
 
 	public static void main(String[] args) {
 
@@ -36,12 +40,20 @@ Recebe duas notas, mostra a media final do aluno e diz se ele foi reprovado, se 
 			if (media < 0 || media > 10) {
 				System.out.println("Digite valores válidos.");
 			}
-		}
-	}
+		   }
+	      }
+	  }
 
 !!!ENGLISH!!!
+
+# Average Grade
+
 Gets two grades and shows the average grade.
 
+	import javax.swing.JOptionPane;
+
+	public class Exercicio3AverageGrade {
+	
 	public static void main(String[] args) {
 
 		Double grade1 = 0.0;
@@ -77,5 +89,6 @@ Gets two grades and shows the average grade.
 			if (average < 0 || average > 10) {
 				System.out.println("Type valid values.");
 			}
-		}
-	}
+		   }
+	      }
+	 }
