@@ -43,10 +43,6 @@ Recebe duas notas, mostra a media final do aluno e diz se ele foi reprovado, se 
 !!!ENGLISH!!!
 Gets two grades and shows the average grade.
 
-import javax.swing.JOptionPane;
-
-public class Exercicio3AverageGrade {
-
 	public static void main(String[] args) {
 
 		Double grade1 = 0.0;
