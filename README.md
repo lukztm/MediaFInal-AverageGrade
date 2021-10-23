@@ -1,10 +1,6 @@
 # MediaFinal-AverageGrade
 Recebe duas notas, mostra a media final do aluno e diz se ele foi reprovado, se está de recuperação ou se foi reprovado. 
 
-import javax.swing.JOptionPane;
-
-public class Exercicio3MediaFinal {
-
 	public static void main(String[] args) {
 
 		Double nota1 = 0.0;
